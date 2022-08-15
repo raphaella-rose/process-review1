@@ -1,0 +1,15 @@
+{
+  "name": "process-review",
+  "version": "1.0.0",
+  "description": "> school reports company > help teachers find out how students did on tests > aftert he student writes a test, the teacher compile the marks and send accross a string value with results comma separated > build a report using that data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
